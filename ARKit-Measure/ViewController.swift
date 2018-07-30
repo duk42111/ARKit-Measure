@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  AR Measure
 //
-//  Created by udaykanthd on 21/06/18.
-//  Copyright © 2018 udaykanthd. All rights reserved.
+//  Created on 21/06/18.
+//  Copyright © 2018. All rights reserved.
 //
 
 import UIKit
