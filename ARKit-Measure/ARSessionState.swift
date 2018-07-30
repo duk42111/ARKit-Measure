@@ -2,8 +2,8 @@
 //  ARSessionState.swift
 //  AR Measure
 //
-//  Created by udaykanthd on 26/06/18.
-//  Copyright © 2018 udaykanthd. All rights reserved.
+//  Created by  on 26/06/18.
+//  Copyright © 2018 . All rights reserved.
 //
 
 import Foundation
